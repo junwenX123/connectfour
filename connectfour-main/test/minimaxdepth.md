@@ -1,0 +1,1 @@
+Nous avons testé Minimax (d = 2..6), en mesurant le temps moyen/maximum de décision par coup ainsi que le taux de victoire contre SmartAgent. Compte tenu de la contrainte de 3 secondes de calcul par coup, nous avons finalement choisi d = 4 comme compromis optimal entre puissance et temps.  
